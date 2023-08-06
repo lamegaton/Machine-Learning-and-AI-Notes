@@ -13,8 +13,6 @@ logistic regression: logreg is a classification algorithm rather than a regressi
 because of the similarity one question is that, what are the difference between perceptron and logistic regression [2]
 
 
-2. McCulloch and Pitts
-
 
 
 
