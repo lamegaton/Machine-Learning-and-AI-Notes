@@ -46,7 +46,6 @@ Step 2: using supervised to adapt the weights. We can use least-squares or gradi
 
 If we want to use RBFN to classify the current dataset, another words, interpolating the data, we can use inverse or psuedo-inverse method to calculate weights.
 
-
 **Terms**
 interpolation: in between the datapoint
 extrapolation: beyond the datapoint
@@ -77,9 +76,27 @@ Example
 
 
 ### Hopfield 
+**Characteristic:**
 
 
+### MLP 
+Fully connected layers is a building block of MLP
+All nodes connect to each other then we sum them up and pass through activation function.
 
+### Convolutional layers
+Convolution layer using filer or sliding window. 
+In communication system, we often convert time domain to frequency domain using FFT (Fast Fouirer Transform).
+Then we perform calculation in frequency domain [6]  
+
+**Characteristic:**
+- local connectivity: by using sliding window and sum up the results, features are grouped together
+- parameter sharing: of the local connectivity, parameters share similar characteristic.
+
+### Recurrent Neural Network
+
+### Natural Languague Processing
+
+### Fuzzy
 
 
 **References**:  
@@ -88,3 +105,8 @@ Example
 [3] [Connectionist Models in Cognitive Psychology](https://stanford.edu/~jlmcc/papers/McCCleeremans09CnxMdlsOCC.pdf)  
 [4] https://stats.stackexchange.com/a/418814/142439  
 [5] https://aws.amazon.com/what-is/overfitting/  
+[6] [Application of convolution](https://dspillustrations.com/pages/posts/misc/the-convolution-theorem-and-application-examples.html)  
+[7]https://www.deeplearningbook.org/  
+[8]http://cs231n.stanford.edu/  
+[9]http://neuralnetworksanddeeplearning.com/chap5.html  
+[10]https://www.deeplearningbook.org/contents/convnets.html  
