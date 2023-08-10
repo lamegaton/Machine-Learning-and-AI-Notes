@@ -110,3 +110,4 @@ Then we perform calculation in frequency domain [6]
 [8]http://cs231n.stanford.edu/  
 [9]http://neuralnetworksanddeeplearning.com/chap5.html  
 [10]https://www.deeplearningbook.org/contents/convnets.html  
+[11]https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks  
