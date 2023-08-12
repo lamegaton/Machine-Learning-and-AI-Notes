@@ -1,3 +1,21 @@
+
+---
+- [Machine Learning and AI Examples](#machine-learning-and-ai-examples)
+	- [Status: In Progress](#status-in-progress)
+		- [Linear Regression Models](#linear-regression-models)
+		- [McCulloch and Pitts](#mcculloch-and-pitts)
+		- [Perceptron](#perceptron)
+		- [Multilayer Perceptron (MLP) with Backpropagation](#multilayer-perceptron-mlp-with-backpropagation)
+		- [Radial Basus Function Network (RBFN)](#radial-basus-function-network-rbfn)
+		- [Kohonen’s Self-Organizing Network](#kohonens-self-organizing-network)
+		- [Hopfield](#hopfield)
+		- [MLP](#mlp)
+		- [Convolutional layers](#convolutional-layers)
+		- [Recurrent Neural Network](#recurrent-neural-network)
+		- [Natural Languague Processing](#natural-languague-processing)
+		- [Fuzzy](#fuzzy)
+		
+---
 # Machine Learning and AI Examples
 
 ## Status: In Progress
