@@ -3,17 +3,18 @@
 - [Machine Learning and AI Examples](#machine-learning-and-ai-examples)
 	- [Status: In Progress](#status-in-progress)
 		- [Linear Regression Models](#linear-regression-models)
-		- [McCulloch and Pitts](#mcculloch-and-pitts)
+		- [McCulloch and Pitts model](#mcculloch-and-pitts-model)
 		- [Perceptron](#perceptron)
 		- [Multilayer Perceptron (MLP) with Backpropagation](#multilayer-perceptron-mlp-with-backpropagation)
-		- [Radial Basus Function Network (RBFN)](#radial-basus-function-network-rbfn)
+		- [Radial Basis Function Network (RBFN)](#radial-basis-function-network-rbfn)
 		- [Kohonen’s Self-Organizing Network](#kohonens-self-organizing-network)
 		- [Hopfield](#hopfield)
 		- [MLP](#mlp)
 		- [Convolutional layers](#convolutional-layers)
 		- [Recurrent Neural Network](#recurrent-neural-network)
-		- [Natural Languague Processing](#natural-languague-processing)
-		- [Fuzzy](#fuzzy)
+		- [Natural Language Processing](#natural-language-processing)
+	- [Fuzzy](#fuzzy)
+	- [Pre-processing data](#pre-processing-data)
 		
 ---
 # Machine Learning and AI Examples
@@ -22,14 +23,19 @@
 
 ### Linear Regression Models
 
-**Regression**: Mapping inputs to outputs for prediction.
-**Classification**: Mapping inputs to categorical outputs for description.
+**Regression**: Mapping inputs to outputs for prediction.  
+
+**Classification**: Mapping inputs to categorical outputs for description.  
 
 Likelihood refers to the probability of the target given the weight. The maximum likelihood estimate (MLE) is used in multivariable regression.
 
-**Logistic Regression**: Logistic regression is a classification algorithm, not a regression algorithm [1]. One common question is: what are the differences between perceptron and logistic regression? [2]
+**Logistic Regression**: Logistic regression is a classification algorithm, not a regression algorithm[1]. One common question is: what are the differences between perceptron and logistic regression? [2]
 
-### McCulloch and Pitts
+
+
+### McCulloch and Pitts model
+
+
 
 ### Perceptron
 
@@ -48,7 +54,7 @@ Example:
 - The vanishing gradient problem describes the behavior where all weights become close to 0.
 
 
-### Radial Basus Function Network (RBFN)
+### Radial Basis Function Network (RBFN)
 **Characteristic:**
 - feedforward NN architecture
 - popular kernel in Support Vector Machine (SVM)
@@ -91,11 +97,9 @@ Example
 - involve competitive learning
 - map input to bigger dimension, feature map
 
-
-
 ### Hopfield 
 **Characteristic:**
-
+- Mimic human brain's behavior
 
 ### MLP 
 Fully connected layers is a building block of MLP
@@ -112,9 +116,16 @@ Then we perform calculation in frequency domain [6]
 
 ### Recurrent Neural Network
 
-### Natural Languague Processing
+### Natural Language Processing
 
-### Fuzzy
+## Fuzzy
+
+## Pre-processing data
+1. Splitting data into 3 sets: training, validation and testing
+
+	Q: Why do we need to split data into test set, training set and validation set?  
+	A: We use test set after training set to find the accuracy or loss of our model. Also, if we have different models, we can test them with validation set. Then the winners among those model will be run with test set as final[12].
+
 
 
 **References**:  
@@ -124,8 +135,10 @@ Then we perform calculation in frequency domain [6]
 [4] https://stats.stackexchange.com/a/418814/142439  
 [5] https://aws.amazon.com/what-is/overfitting/  
 [6] [Application of convolution](https://dspillustrations.com/pages/posts/misc/the-convolution-theorem-and-application-examples.html)  
-[7]https://www.deeplearningbook.org/  
-[8]http://cs231n.stanford.edu/  
-[9]http://neuralnetworksanddeeplearning.com/chap5.html  
-[10]https://www.deeplearningbook.org/contents/convnets.html  
-[11]https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks  
+[7] https://www.deeplearningbook.org/  
+[8] http://cs231n.stanford.edu/  
+[9] http://neuralnetworksanddeeplearning.com/chap5.html  
+[10] https://www.deeplearningbook.org/contents/convnets.html  
+[11] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks  
+[12] https://youtu.be/oymtGlGdT-k?t=1010  
+
