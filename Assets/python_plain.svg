@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="104.3448mm"
+   height="33.545647mm"
+   viewBox="0 0 104.3448 33.545647"
+   version="1.1"
+   id="svg42182"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42179">
+    <linearGradient
+       id="linearGradient49293">
+      <stop
+         style="stop-color:#3cc26b;stop-opacity:1;"
+         offset="0"
+         id="stop49291" />
+    </linearGradient>
+    <rect
+       x="169.84718"
+       y="209.36607"
+       width="474.22678"
+       height="167.32471"
+       id="rect49017" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-2.8623343,-2.1446998)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3cc26b;stroke-width:4.39999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 47.987481,7.6129649 C 40.484416,4.6662659 38.202963,8.3470804 43.58282,16.186322 50.122689,25.715872 29.324268,30.029818 28.672564,24.284145 27.312822,12.29614 0.92728792,17.991054 5.5899959,25.068268 8.1149573,28.900739 15.92771,29.644999 19.199874,33.490348"
+       id="path42887" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3cc26b;stroke-width:4.16587;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 44.09515,5.0052289 c 2.343698,-0.9487371 6.031674,-1.4316078 7.334465,0.9834152 0.217423,0.4030435 0.444181,0.8136303 0.52894,1.2695928"
+       id="path42891" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3cc26b;stroke-width:4.39999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 44.76264,7.8489279 c 2.198301,1.5344086 5.325932,2.4995781 7.876311,1.2928113 0,0 0.42611,-0.3269204 0.42611,-0.3269204 0,0 0.349591,-0.4153059 0.349591,-0.4153059"
+       id="path42895" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,4.4493795,-45.383671)"
+       id="text49015"
+       style="font-size:96px;letter-spacing:0.44px;word-spacing:0.27px;white-space:pre;shape-inside:url(#rect49017);display:inline;fill:#3cc26b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.13386;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="169.84766"
+         y="303.30809"
+         id="tspan49566"><tspan
+           style="font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler"
+           id="tspan49564">Review</tspan></tspan></text>
+  </g>
+</svg>
