@@ -1,3 +1,5 @@
+![reinforce bot](https://raw.githubusercontent.com/lamegaton/Machine-Learning-and-AI-Examples/6a1c0d0eb3553da4e487a8975ba4adcd89fdad84/Assets/reinforce_plain.svg)
+
 # Reinforcement learning
 
 
