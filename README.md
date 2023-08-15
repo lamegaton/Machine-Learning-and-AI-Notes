@@ -1,4 +1,6 @@
 ![navigation](https://raw.githubusercontent.com/lamegaton/Machine-Learning-and-AI-Examples/892b8c8983b88b7018c442ee8ae2b3364ed790a0/Assets/navigation.svg)
+
+# Machine Learning and AI Examples
 ---
 - [Machine Learning and AI Examples](#machine-learning-and-ai-examples)
 	- [Status: In Progress](#status-in-progress)
@@ -17,8 +19,6 @@
 	- [Pre-processing data](#pre-processing-data)
 		
 ---
-# Machine Learning and AI Examples
-
 ## Status: In Progress
 
 ### Linear Regression Models
