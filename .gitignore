@@ -2,3 +2,4 @@
 Supervised/MLP/train_data.csv
 Supervised/MLP/train_labels.csv
 'Feature Detection/Hough Transformation/.ipynb_checkpoints'
+Supervised/CNNs/YOLO/Guide_for_YOLOv8_on_Android.txt
