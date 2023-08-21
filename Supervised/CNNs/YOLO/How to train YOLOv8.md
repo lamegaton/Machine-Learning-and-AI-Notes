@@ -43,7 +43,7 @@ val: 'valid/'
 names: 
   0: 'pipe'
 ```
-In the example above, I have only one class to detect which is the pipe circle. To train we can run 
+In the example above, I have only one class pipe to detect. To start training we can execute: 
 > yolo task=detect mode=train model=yolov8s.pt imgsz=416 data=yolov8_pipe.yaml epochs=50 batch=16 name=yolov8s_v8_pipe
 
 YOLOv8n is the lightest version compare to the others, so I decided to use it for mobile devices.
