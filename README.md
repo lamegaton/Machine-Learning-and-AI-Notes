@@ -2,7 +2,7 @@
 
 # Machine Learning and AI Examples
 ```mermaid
-graph TD
+graph LR
   MLAI[ML and AI]
   R[Reinforcement]
   SA[Search Algorithm]
