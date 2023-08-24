@@ -17,8 +17,6 @@ graph LR
   MLAI --> FZ
 
 ```
-Please click on the box above to go to each folder
-
 ## References:  
 [1] Deep Learning with Python - Chollet, Francois  
 [2] [Link to comparison between logistic regression and perceptron](https://stats.stackexchange.com/questions/162257/whats-the-difference-between-logistic-regression-and-perceptron)  
