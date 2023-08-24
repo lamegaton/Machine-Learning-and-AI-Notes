@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/lamegaton/Machine-Learning-and-AI-Examples/892b8c8983b88b7018c442ee8ae2b3364ed790a0/Assets/navigation.svg" alt="navigation" style="display: block; margin-left: auto; margin-right: auto;">
-
 # Machine Learning and AI Examples
 ```mermaid
 graph LR
