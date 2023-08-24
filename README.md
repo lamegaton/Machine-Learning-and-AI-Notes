@@ -16,11 +16,6 @@ graph TD
   MLAI --> US
   MLAI --> FZ
 
-  click R "{{page.url}}/tree/main/Search%20Algorithm" _blank
-  click SA "{{page.url}}/tree/main/Search%20Algorithm" _blank
-  click S "{{page.url}}/tree/main/Supervised" _blank
-  click US "{{page.url}}/tree/main/Unsupervised" _blank
-  click FZ "{{page.url}}/tree/main/" _blank
 ```
 Please click on the box above to go to each folder
 
