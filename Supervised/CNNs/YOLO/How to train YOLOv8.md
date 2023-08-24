@@ -1,4 +1,5 @@
 # How to train YOLOv8
+This tutorial will show you how to train or in another word transfer learning the pretrained weight `.pt`
 
 # Install the repo using WSL
 > pip install ultralytics

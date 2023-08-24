@@ -2,7 +2,7 @@
 
 By far if you have got a bachelor degree, or some kinds of certificate. You probably has built up a system for you to learn new thing.
 
-Below are some referrences you can read while boring with the current task:  
+Below are some references you can read while boring with the current task:  
 - https://www.swyx.io/learn-in-public
 	- the author shows us how to keep a "a beginner’s mind" in learning new things  
 		- why it is important?: because you want to be good, you want to understand and grasp the concepts well, so later on, you can just review and apply that concept. During my undergraduate, I spent a lot of time on learning different Engineering subjects; however, they don't stick well. The problem is that I don't understand them clearly. And just let them pass. Most of the problem can be solved by rode memorization. If you watch "the guardian of galaxy 3" (that's a good movie), you will see that the scientist wants to replicate a creature that can think. Not one that can memorize the problem.
