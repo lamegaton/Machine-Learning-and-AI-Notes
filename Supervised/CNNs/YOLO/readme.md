@@ -1,6 +1,6 @@
 # YOLO (you only look once)
 
-Check out how to tutorial to train your custom model  
+Check out how to tutorial to train your custom datasets  
 [How to train your YOLO](https://github.com/lamegaton/Machine-Learning-and-AI-Examples/blob/main/Supervised/CNNs/YOLO/How%20to%20train%20YOLOv8.md)
 
 Explore preprocessing and post processing of YOLOv8 from ultranalytics  

@@ -1,4 +1,4 @@
-# How to train YOLOv8
+# How to train YOLOv8 with custom dataset
 This tutorial will show you how to train or in another word transfer learning the pretrained weight `.pt`
 
 # Install the repo using WSL
