@@ -1,0 +1,2 @@
+# Lost Fucntions
+## Cross etropy

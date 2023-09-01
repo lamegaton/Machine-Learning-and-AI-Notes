@@ -9,3 +9,9 @@ Below are some references you can read while boring with the current task:
 		- I feel a bit overwhelming for undergraduate students, because they have to take many courses, and have no time to ponder their strenghts and interests.
 		- Additionally, I used to open more than 10 tabs on my web browsers. If I was back then, I would have open 10 more because of the helps of AI generated contents. Knowing that fact, I limit my self to lecture notes and books that are recommended by professors. 
 - Another good note by xwyx [Learn in Private](https://www.swyx.io/learn-in-private)
+
+
+# Good References:
+Meta-Learning in Neural Networks: A Survey https://arxiv.org/abs/2004.05439
+
+

@@ -47,3 +47,5 @@ g: gausian kernel
 ### Hopfield 
 **Characteristic:**
 - Mimic human brain's behavior
+
+### Restricted Boltzmann machine (RBM)
