@@ -2,6 +2,7 @@
 
 # Reinforcement learning
 
+[Beginner](/Beginner)
 
 
 

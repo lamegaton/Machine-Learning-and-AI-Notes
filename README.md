@@ -1,20 +1,16 @@
 # Machine Learning and AI Examples
-```mermaid
-graph LR
-  MLAI[ML and AI]
-  R[Reinforcement]
-  SA[Search Algorithm]
-  S[Supervised]
-  US[Unsupervised]
-  FZ[Fuzzy]
 
-  MLAI --> R
-  MLAI --> SA
-  MLAI --> S
-  MLAI --> US
-  MLAI --> FZ
+[Feature Detection](/Feature%20Detection)  
+[Meta-Learning](/Meta-Learning)  
+[Preprocessing](/Preprocessing)  
+[Reinforcement](/Reinforcement)  
+[Review Python](/Review%20Python)  
+[Search Algorithm](/Search%20Algorithm)  
+[Semi-Supervised](/Semi-Supervised)  
+[Statistical Methods](/Statistical%20Methods)  
+[Supervised](/Supervised)  
+[Unsupervised](/Unsupervised)  
 
-```
 ## References:  
 [1] Deep Learning with Python - Chollet, Francois  
 [2] [Link to comparison between logistic regression and perceptron](https://stats.stackexchange.com/questions/162257/whats-the-difference-between-logistic-regression-and-perceptron)  
