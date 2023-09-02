@@ -1,15 +1,15 @@
 # Machine Learning and AI Examples
 
-[Feature Detection](/Feature%20Detection)  
-[Meta-Learning](/Meta-Learning)  
-[Preprocessing](/Preprocessing)  
-[Reinforcement](/Reinforcement)  
-[Review Python](/Review%20Python)  
-[Search Algorithm](/Search%20Algorithm)  
-[Semi-Supervised](/Semi-Supervised)  
-[Statistical Methods](/Statistical%20Methods)  
-[Supervised](/Supervised)  
-[Unsupervised](/Unsupervised)  
+[Feature Detection](./Feature%20Detection)  
+[Meta-Learning](./Meta-Learning)  
+[Preprocessing](./Preprocessing)  
+[Reinforcement](./Reinforcement)  
+[Review Python](./Review%20Python)  
+[Search Algorithm](./Search%20Algorithm)  
+[Semi-Supervised](./Semi-Supervised)  
+[Statistical Methods](./Statistical%20Methods)  
+[Supervised](./Supervised)  
+[Unsupervised](./Unsupervised)  
 
 ## References:  
 [1] Deep Learning with Python - Chollet, Francois  
