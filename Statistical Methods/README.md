@@ -1,5 +1,9 @@
-### Linear Regression Models
+# Statistical Methods
 
+[Linear Model](./Linear%20Models/)  
+[Non-linear Model](./Non-linear%20Models/)  
+
+## Linear Regression Models
 **Regression**: Mapping inputs to outputs for prediction.  
 
 **Classification**: Mapping inputs to categorical outputs for description.  
