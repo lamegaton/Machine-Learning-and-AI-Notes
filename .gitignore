@@ -1,5 +1,11 @@
+Supervised/CNNs/YOLO/Guide_for_YOLOv8_on_Android.txt
 
+# ignore any checkpoint folder
+**/.ipynb_checkpoints/
+
+# ignore any file that has .private
+*.private*
+
+# ignore train_data and train_labels
 Supervised/MLP/train_data.csv
 Supervised/MLP/train_labels.csv
-'Feature Detection/Hough Transformation/.ipynb_checkpoints'
-Supervised/CNNs/YOLO/Guide_for_YOLOv8_on_Android.txt

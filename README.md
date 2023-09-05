@@ -1,3 +1,4 @@
+English | [Tiếng Việt](README_vi.md) 
 # Machine Learning and AI Examples
 
 [Feature Detection](./Feature%20Detection)  
@@ -11,8 +12,25 @@
 [Supervised](./Supervised)  
 [Unsupervised](./Unsupervised)  
 
+## TODO:
+- [ ] add action auto convert ipynb to md  
+    https://github.com/Maxlinn/linn-jupyter-site-template/blob/main/.github/workflows/linn-jupyter-site-template-deploy.yml
+
+- [ ] Create a good front page
+- [ ] Translate front page to Vietnamese
+- [ ] find the scope
+- [ ] Add expand to see code
+- [ ] 
+- [ ] placeholder
+- [ ] 
+
+
+## Start Docsify local
+This repo is built with docsify, feel free to copy the template. To run docsify in local we need to initiate
+> 
+
 ## References:  
-[1] Deep Learning with Python - Chollet, Francois  
+[1] [Deep Learning with Python - Chollet, Francois](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)  
 [2] [Link to comparison between logistic regression and perceptron](https://stats.stackexchange.com/questions/162257/whats-the-difference-between-logistic-regression-and-perceptron)  
 [3] [Connectionist Models in Cognitive Psychology](https://stanford.edu/~jlmcc/papers/McCCleeremans09CnxMdlsOCC.pdf)  
 [4] https://stats.stackexchange.com/a/418814/142439  
