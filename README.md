@@ -29,6 +29,14 @@ English | [Tiếng Việt](README_vi.md)
 This repo is built with docsify, feel free to copy the template. To run docsify in local we need to initiate
 > 
 
+
+## Q&A
+1. What are the difference between feed forward and back propagation?
+- feed forward is an architecture 
+- back propagation is a process to updating weights
+[ref](https://stackoverflow.com/questions/28403782/what-is-the-difference-between-back-propagation-and-feed-forward-neural-network)
+
+
 ## References:  
 [1] [Deep Learning with Python - Chollet, Francois](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)  
 [2] [Link to comparison between logistic regression and perceptron](https://stats.stackexchange.com/questions/162257/whats-the-difference-between-logistic-regression-and-perceptron)  
@@ -42,4 +50,4 @@ This repo is built with docsify, feel free to copy the template. To run docsify 
 [10] https://www.deeplearningbook.org/contents/convnets.html  
 [11] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks  
 [12] https://youtu.be/oymtGlGdT-k?t=1010  
-
+[13] https://stanford.edu/~shervine/teaching/

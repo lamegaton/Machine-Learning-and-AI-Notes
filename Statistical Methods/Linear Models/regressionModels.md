@@ -5,7 +5,7 @@
 In linear regression, we want to find a line to fit the direction of the data points.
 
 # Logistic Regression
-Logistic regression predict or classify true or false instead of drawing a line to predict continuous trend in linear regression. It use propability. The logistic regression model predicts the class label of a sample by first computing the dot product of the feature vector and the weight vector. 
+Logistic regression predict or classify true or false instead of drawing a line to predict continuous trend in linear regression. It use probability. The logistic regression model predicts the class label of a sample by first computing the dot product of the feature vector and the weight vector. 
 
 <div style="text-align:center;">
   <img src="image-5.png" height="50">
