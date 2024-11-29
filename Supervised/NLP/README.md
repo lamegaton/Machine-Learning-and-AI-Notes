@@ -1,5 +1,13 @@
 # Introduction
 
+## Things that I have tried
+
+
+
+## 
+
+
+
 # Reading List
 This is a place I put all the information that I don't have time to compile them into one article yet. 
 
