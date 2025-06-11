@@ -51,3 +51,7 @@ This repo is built with docsify, feel free to copy the template. To run docsify 
 [11] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks  
 [12] https://youtu.be/oymtGlGdT-k?t=1010  
 [13] https://stanford.edu/~shervine/teaching/
+
+### Blogs
+
+[14] https://www.stephenwolfram.com/
